@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:ScotterMan/Assets/Scenes/MainMenu.unity.meta
 guid: 2cda990e2423bbf4892e6590ba056729
+========
+guid: 6ea315d0fd7389c41b19996891e99ae3
+folderAsset: yes
+>>>>>>>> Stashed changes:ScotterMan/Assets/Scenes.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
